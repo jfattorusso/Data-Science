@@ -1,9 +1,26 @@
 # Data-Science
 ## Which classes are surveyed in each survey?
-Computing Entry 2020:
+<b>Computing Entry 2020:<br></b>
+CMP 120 Foundations of Information Security  
+CMP 128 Computer Science I  
+CMP 130 Intro to IT  
+CMP 131 Fundamentals of Programming (Python)  
+CMP 239 Internet & Web Page Design  
 
-Computing Entry 2021:
+<b>Computing Entry 2021:</b><br>
+CMP 120 Foundations of Information Security  
+CMP 128 Computer Science I  
+CMP 130 Intro to IT  
+CMP 131 Fundamentals of Programming (Python)  
+CMP 239 Internet & Web Page Design  
 
-Literacy Course Entry 2020:
+<b>Literacy Course Entry 2020:</b><br>
+CMP 101 Computer Information Literacy  
+CMP 126 Computer Technology and Applications  
+CMP 135 Computer Concepts with Applications  
 
-Literacy Course Entry 2021:
+
+<b>Literacy Course Entry 2021:</b><br>
+CMP 101 Computer Information Literacy  
+CMP 126 Computer Technology and Applications  
+CMP 135 Computer Concepts with Applications  
